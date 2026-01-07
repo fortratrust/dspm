@@ -1,0 +1,4 @@
+EmployeeID,FullName (English),पूरा नाम (Hindi),Aadhaar,आधार संख्या,PAN,पैन नंबर,Mobile,मोबाइल नंबर,Department,विभाग,City,शहर,State,राज्य,PIN,पिन कोड,MonthlyGrossSalary (INR)
+IN-EMP-58214,Ananya Sharma,अनन्या शर्मा,748219365407,7482 1936 5407,ADFPS7294K,एडीएफपीएस7294के,+919812345678,+91 98123 45678,Digital Transformation,डिजिटल ट्रांसफॉर्मेशन,Hyderabad,हैदराबाद,Telangana,तेलंगाना,500081,500081,145000
+IN-EMP-59302,Rohit Verma,रोहित वर्मा,529817364902,5298 1736 4902,BHGPR4821M,बीएचजीपीआर4821एम,+919876543210,+91 98765 43210,Finance,वित्त,Gurgaon,गुरुग्राम,Haryana,हरियाणा,122018,122018,132000
+IN-EMP-60411,Priya Iyer,प्रिया अय्यर,638492710556,6384 9271 0556,CKQPI9932R,सीकेक्यूपीआई9932आर,+919820113344,+91 98201 13344,Human Resources,मानव संसाधन,Chennai,चेन्नई,Tamil Nadu,तमिलनाडु,600042,600042,118000
