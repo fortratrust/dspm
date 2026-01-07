@@ -1,0 +1,27 @@
+Intern e-post – Verifisering av fødselsnummer og lønnsdata
+===========================================================
+
+Fra: hr@osloconsult.no
+Til: payroll@osloconsult.no
+Kopi: compliance@osloconsult.no
+Dato: 26. oktober 2024
+Emne: Årlig kontroll av fødselsnummer – Skatteetaten-etterlevelse
+
+Denne e-posten inneholder detaljerte personopplysninger brukt i forbindelse med
+lønn, skatt og rapportering til Skatteetaten. Fødselsnummer regnes som særlige
+kategorier av personopplysninger under GDPR og norsk personvernlovgivning.
+
+Ansatt 1:
+Navn: Lars Henrik Johansen
+Fødselsnummer: 120589 12345
+Avdeling: Konsulent
+Årslønn: 890 000 NOK
+
+Ansatt 2:
+Navn: Ingrid Nilsen
+Fødselsnummer: 230691 54321
+Avdeling: Finans
+Årslønn: 920 000 NOK
+
+Opplysningene nedenfor fortsetter over flere poster og skal behandles strengt
+konfidensielt.
