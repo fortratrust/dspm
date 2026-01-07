@@ -1,0 +1,69 @@
+INTERNE E-MAIL – ÜBERPRÜFUNG STEUERDATEN (HR / FINANZEN)
+======================================================
+
+Von: hr-operations@beispielunternehmen.de
+An: finanzen@beispielunternehmen.de
+Cc: compliance@beispielunternehmen.de
+Datum: 21. Oktober 2024
+Betreff: Bestätigung steuer id und Gehaltsdaten – Interne Prüfung
+
+Sehr geehrtes Finanzteam,
+
+im Rahmen unserer turnusmäßigen internen Prüfung sowie der Vorbereitung auf die
+jährliche externe Wirtschaftsprüfung möchten wir die steuerlichen Stammdaten eines
+Mitarbeiters überprüfen und dokumentieren. Bitte gleichen Sie die nachstehenden
+Informationen mit den im Abrechnungssystem hinterlegten Daten ab.
+
+MITARBEITERDATEN
+----------------
+Vollständiger Name: Lukas Schneider
+Mitarbeiter-ID: DE-EMP-77142
+Position: Senior IT-Architekt
+Abteilung: Zentrale IT
+Eintrittsdatum: 01. März 2020
+
+PERSÖNLICHE UND STEUERLICHE ANGABEN
+----------------------------------
+steueridentifikationsnummer (steuer id): 65 341 987 214
+Geburtsdatum: 22. September 1985
+
+Wohnanschrift:
+Musterstraße 18
+80331 München
+Deutschland
+
+GEHALT & ABRECHNUNG
+------------------
+Der Mitarbeiter ist als unbefristet angestellt und erhält ein monatliches Bruttogehalt
+in Höhe von EUR 7.800. Die Gehaltsabrechnung erfolgt monatlich unter Berücksichtigung
+der gesetzlichen Steuer- und Sozialabgaben.
+
+Monatliches Bruttogehalt: EUR 7.800
+Abrechnungszyklus: Monatlich
+Steuerklasse: I
+Kirchensteuer: Nein
+
+COMPLIANCE- UND DSGVO-HINWEISE
+------------------------------
+Die oben genannten personenbezogenen Daten werden ausschließlich für Zwecke der
+Gehaltsabrechnung, der steuerlichen Meldungen sowie interner Prüfungen verarbeitet.
+Der Zugriff auf diese Informationen ist auf autorisierte Mitarbeiter der Personal-,
+Finanz- und Compliance-Abteilungen beschränkt.
+
+Bitte bestätigen Sie per Antwort auf diese E-Mail, dass die Daten vollständig und
+korrekt sind. Etwaige Abweichungen sind unverzüglich an die Abteilung HR Compliance
+zu melden.
+
+Mit freundlichen Grüßen
+
+Sabine Hoffmann
+Leiterin Personalwesen
+Beispielunternehmen GmbH
+
+VERTRAULICHKEITSHINWEIS
+----------------------
+Diese E-Mail enthält vertrauliche personenbezogene Daten. Eine unbefugte Nutzung,
+Weitergabe oder Offenlegung ist untersagt und kann arbeitsrechtliche sowie rechtliche
+Konsequenzen nach sich ziehen.
+
+ENDE DER NACHRICHT
