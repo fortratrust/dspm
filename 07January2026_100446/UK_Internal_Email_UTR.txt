@@ -1,0 +1,32 @@
+Internal Email – UTR Verification and Payroll Review
+================================================
+
+From: hr@londonfintech.co.uk
+To: payroll@londonfintech.co.uk
+Cc: compliance@londonfintech.co.uk
+Date: 26 October 2024
+Subject: Annual UTR and Payroll Data Verification – HMRC Compliance
+
+As part of our annual HMRC compliance review, this email contains detailed
+records of employee tax identifiers, including Unique Taxpayer Reference (UTR)
+numbers used for self-assessment and payroll reconciliation.
+
+Employee 1:
+Name: James Edward Collins
+UTR Number: 12345 67890
+NI Number: QQ123456C
+Department: Finance
+Annual Salary: £92,000
+
+Employee 2:
+Name: Priya Shah
+UTR Number: 22334 55667
+NI Number: QQ654321D
+Department: Engineering
+Annual Salary: £105,000
+
+The information below continues across multiple records and must be treated
+as confidential under UK GDPR and HMRC data handling requirements.
+
+This communication contains sensitive tax identifiers and must not be shared
+outside authorised recipients.
