@@ -1,0 +1,4 @@
+Employee_ID,Identifiant_Employé,Full_Name,Nom_Complet,SIN,NAS,Department,Département,Bank_Transit,Transit_Bancaire,Bank_Account,Compte_Bancaire,Province,Province,Postal_Code,Code_Postal,Gross_Annual_Salary_CAD,Salaire_Annuel_Brut_CAD,Net_Pay_Biweekly_CAD,Salaire_Net_Bimensuel_CAD
+CA-EMP-33491,CA-EMP-33491,Daniel Tremblay,Daniel Tremblay,542817396,542 817 396,Business Intelligence,Intelligence d’affaires,00123,00123,9876543,9876543,Quebec,Québec,H2Y1Z3,H2Y 1Z3,108000,108000,3120,3120
+CA-EMP-34702,CA-EMP-34702,Sophie Martin,Sophie Martin,417692830,417 692 830,Finance,Finances,00456,00456,1237890,1237890,Ontario,Ontario,M5H2N2,M5H 2N2,96000,96000,2785,2785
+CA-EMP-35819,CA-EMP-35819,Marc Pelletier,Marc Pelletier,693504271,693 504 271,IT Operations,Opérations TI,00987,00987,5566778,5566778,British Columbia,Colombie-Britannique,V6B3K9,V6B 3K9,102000,102000,2960,2960
