@@ -1,0 +1,78 @@
+INTERNAL EMAIL – EMPLOYEE IDENTITY VERIFICATION
+=================================================
+
+From: hr-operations@globaltechindia.in
+To: compliance@globaltechindia.in
+Cc: payroll@globaltechindia.in
+Date: 22 October 2024
+Subject: Aadhaar & PAN Verification – Employee Onboarding Audit
+
+Dear Compliance Team,
+
+As part of our ongoing employee onboarding audit and internal compliance review, this
+email is to formally document and verify the identity details of one of our employees.
+Please review the information below and confirm that our records are accurate and
+aligned with regulatory requirements under the Aadhaar Act and applicable IT rules.
+
+EMPLOYEE DETAILS
+----------------
+Full Name: Ananya Sharma
+Employee ID: IN-EMP-58214
+Designation: Senior Business Analyst
+Department: Digital Transformation
+Date of Joining: 15 May 2022
+
+IDENTITY INFORMATION
+--------------------
+Aadhaar Number: 7482 1936 5407
+PAN Number: ADFPS7294K
+Mobile Number: +91 98123 45678
+Date of Birth: 18 August 1991
+
+Residential Address:
+Flat No. 504, Lotus Residency
+Hitech City, Madhapur
+Hyderabad, Telangana – 500081
+India
+
+पहचान विवरण (Identity Details – Hindi Reference)
+-----------------------------------------------
+नाम: अनन्या शर्मा
+आधार संख्या: 7482 1936 5407
+पैन नंबर: ADFPS7294K
+मोबाइल नंबर: +91 98123 45678
+
+EMPLOYMENT & PAYROLL CONTEXT
+----------------------------
+The employee is currently classified as a full-time permanent employee and is
+eligible for salary payments, statutory benefits, and tax deductions in accordance
+with company policy and Indian labor laws.
+
+Monthly Gross Salary: INR 1,45,000
+Payment Frequency: Monthly
+Bank Account for Salary Credit: On file with Payroll Team
+
+COMPLIANCE & DATA PROTECTION NOTES
+---------------------------------
+This information is collected and processed strictly for employment verification,
+statutory compliance, and internal audit purposes. Access to Aadhaar and PAN details
+is restricted to authorized HR, payroll, and compliance personnel only.
+
+Any discrepancies identified during verification must be reported immediately to
+the HR Compliance Officer to ensure timely corrective action.
+
+Please confirm by reply email that the above information matches the records in your
+systems. Do not forward or disclose this information outside the authorized recipients.
+
+Best regards,
+Suresh Reddy
+Head – Human Resources
+GlobalTech India Pvt. Ltd.
+
+CONFIDENTIALITY NOTICE
+----------------------
+This communication contains sensitive personal information. Unauthorized access,
+use, disclosure, or distribution is strictly prohibited and may result in disciplinary
+action and legal consequences under applicable Indian laws.
+
+END OF MESSAGE
