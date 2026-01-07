@@ -1,0 +1,6 @@
+Mitarbeiter_ID,Vollständiger_Name,steueridentifikationsnummer,Abteilung,Position,Stadt,PLZ,Monatliches_Bruttogehalt_EUR,Monatliches_Nettogehalt_EUR
+DE-EMP-77142,Lukas Schneider,65341987214,Zentrale IT,Senior IT-Architekt,München,80331,7800,4950
+DE-EMP-78219,Anna Weber,74219856033,Finanzen,Finanzanalystin,Frankfurt am Main,60311,7200,4620
+DE-EMP-79405,Thomas Müller,58924017655,Produktmanagement,Produktmanager,Berlin,10115,6950,4485
+DE-EMP-80677,Julia Becker,91837264011,Personalwesen,HR Business Partner,Hamburg,20095,7100,4570
+DE-EMP-81934,Markus Fischer,33765098124,IT Betrieb,Systemadministrator,Stuttgart,70173,6800,4390
