@@ -1,0 +1,80 @@
+INTERNAL EMAIL – EMPLOYEE IDENTITY & PAYROLL VERIFICATION
+======================================================
+
+From: hr-operations@northshoretech.ca
+To: payroll@northshoretech.ca
+Cc: compliance@northshoretech.ca
+Date: October 23, 2024
+Subject: SIN and Banking Details Verification – Internal Review
+
+Hello Payroll Team,
+
+As part of our scheduled internal audit and in preparation for the upcoming year-end
+payroll reconciliation, this email is intended to formally document and verify the
+identity and payroll-related information of one of our employees. Please review the
+details below and confirm that they align with the records currently stored in the
+payroll system.
+
+EMPLOYEE INFORMATION
+--------------------
+Full Name: Daniel Tremblay
+Employee ID: CA-EMP-33491
+Position: Senior Data Analyst
+Department: Business Intelligence
+Employment Start Date: April 11, 2021
+
+PERSONAL IDENTIFIERS
+--------------------
+Social Insurance Number (SIN): 542 817 396
+Date of Birth: September 9, 1989
+
+Residential Address:
+118 Rue Saint-Paul Ouest
+Montréal, QC H2Y 1Z3
+Canada
+
+COORDONNÉES PERSONNELLES (RÉFÉRENCE FRANÇAISE)
+---------------------------------------------
+Nom complet: Daniel Tremblay
+Numéro d’assurance sociale (NAS): 542 817 396
+Date de naissance: 9 septembre 1989
+Adresse: 118 Rue Saint-Paul Ouest, Montréal, QC H2Y 1Z3
+
+PAYROLL & BANKING CONTEXT
+-------------------------
+The employee is classified as a full-time permanent staff member. Salary payments are
+processed on a bi-weekly basis via direct deposit to the employee’s designated bank
+account, in accordance with company payroll policy.
+
+Pay Frequency: Bi-Weekly
+Annual Base Salary: CAD 108,000
+Banking Information: On file with Payroll (Transit & Account Numbers)
+
+PRIVACY & COMPLIANCE NOTICE
+---------------------------
+The personal information included in this communication is collected, used, and
+disclosed strictly for employment administration and payroll purposes, in accordance
+with the Personal Information Protection and Electronic Documents Act (PIPEDA) and
+applicable provincial privacy legislation.
+
+Access to this information is restricted to authorized HR, payroll, and compliance
+personnel. Any discrepancies identified must be reported immediately to the HR
+Compliance Officer.
+
+Please reply to this email confirming that the above information is accurate and complete.
+Do not forward this message outside the authorized recipient list.
+
+Thank you for your cooperation.
+
+Kind regards,
+Marie Gagnon
+Director, Human Resources
+Northshore Technologies Inc.
+
+CONFIDENTIALITY NOTICE
+----------------------
+This email contains confidential personal information. Unauthorized access, use, or
+disclosure is strictly prohibited and may result in disciplinary action and legal
+consequences.
+
+END OF MESSAGE
