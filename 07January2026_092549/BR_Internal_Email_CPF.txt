@@ -1,0 +1,66 @@
+E-MAIL INTERNO – CONFIRMAÇÃO DE DADOS FISCAIS (RH / FINANCEIRO)
+======================================================
+
+De: rh-operacoes@brasiltech.com.br
+Para: financeiro@brasiltech.com.br
+Cc: compliance@brasiltech.com.br
+Data: 25 de outubro de 2024
+Assunto: Verificação de CPF e dados de folha – Auditoria interna
+
+Prezados,
+
+No contexto da auditoria interna periódica e da preparação para o fechamento fiscal
+mensal, solicitamos a verificação dos dados cadastrais e fiscais do colaborador abaixo,
+conforme registrados atualmente no sistema de folha de pagamento.
+
+DADOS DO COLABORADOR
+--------------------
+Nome completo: Rafael Moreira Santos
+Matrícula: BR-EMP-59321
+Cargo: Analista Sênior de Dados
+Departamento: Inteligência de Negócios
+Data de admissão: 10 de fevereiro de 2020
+
+DADOS PESSOAIS E FISCAIS
+-----------------------
+CPF: 389.742.156-09
+Data de nascimento: 18 de julho de 1988
+
+Endereço residencial:
+Rua das Palmeiras, nº 245, Apto 1203
+Bairro Jardins
+São Paulo – SP
+CEP: 01426-000
+Brasil
+
+CONTEXTO DE FOLHA E REMUNERAÇÃO
+-------------------------------
+O colaborador possui vínculo empregatício em regime CLT e recebe remuneração mensal.
+Os dados de CPF são utilizados exclusivamente para fins de apuração de impostos,
+obrigações trabalhistas e declarações legais.
+
+Salário bruto mensal: R$ 14.500,00
+Periodicidade de pagamento: Mensal
+Benefícios: Vale-refeição, plano de saúde e previdência privada
+
+CONFORMIDADE E PROTEÇÃO DE DADOS (LGPD)
+--------------------------------------
+As informações pessoais descritas neste e-mail são tratadas em conformidade com a
+Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD). O acesso é restrito aos
+colaboradores autorizados das áreas de Recursos Humanos, Financeiro e Compliance.
+
+Solicitamos a confirmação da exatidão dos dados ou, caso haja divergências, o envio
+das correções necessárias com a devida justificativa.
+
+Atenciosamente,
+
+Carla Nogueira
+Gerente de Recursos Humanos
+BrasilTech Soluções Digitais Ltda.
+
+AVISO DE CONFIDENCIALIDADE
+-------------------------
+Este e-mail contém informações confidenciais e protegidas por lei. A divulgação,
+distribuição ou uso não autorizado é estritamente proibido.
+
+FIM DA MENSAGEM
