@@ -1,0 +1,5 @@
+EmployeeID,FullName,SSN,Department,JobTitle,PayPeriod,GrossSalary,FederalTax,Medicare,NetPay
+US-EMP-10482,Michael Anderson,392-84-6157,Product Engineering,Senior Software Engineer,2024-09,10333.33,2140.00,149.83,8043.50
+US-EMP-10931,Sarah Collins,281-66-9042,Finance,Financial Analyst,2024-09,8750.00,1815.00,126.88,6808.12
+US-EMP-11209,David Ramirez,417-52-8891,IT Operations,Systems Administrator,2024-09,9166.67,1902.00,132.92,7131.75
+US-EMP-11877,Emily Chen,509-33-7714,Product,UX Designer,2024-09,8333.33,1735.00,120.83,6477.50
